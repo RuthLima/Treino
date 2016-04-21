@@ -3,7 +3,7 @@
 ###Versão###
 ***1.0***
 
-#Autor : Ruth Lima Cardoso
- 4ªInformática
+#Autor : Ruth Lima Cardoso#
+**4ªInformática**
  ###Versão###
  ***1.1***
